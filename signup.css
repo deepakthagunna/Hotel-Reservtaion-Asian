@@ -1,0 +1,98 @@
+input[type=submit] {
+  background-color: #6ade83ba;
+  color: rgb(63, 33, 199);
+  padding: 8px 33px;
+  border: transparent;
+  border-radius: 10px;
+  cursor: context-menu;
+  text-align: center;
+  width: 300px;
+
+}
+input[type=submit]:hover {
+  background-color: purple;
+}
+
+.container {
+  width: 310px;
+  overflow: hidden;
+  margin: auto;
+  padding: 50px;
+  background: rgba(15,50,50,0.7);
+  border-radius: 15px;
+}
+
+body{
+margin: 0;
+ height: 100vh;
+width: 100%;
+background-image:
+  linear-gradient(to bottom, rgba(4,9,30,0.7), rgba(4,9,30,0.7)),
+  url('images/Hotel.jpg');
+background-position: center;
+background-size: auto 100%;
+position: relative;
+align-items: center;
+}
+#fname{
+
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 3px;
+  padding-left: 7px;
+  text-align: center;
+
+}
+#lname{
+
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 3px;
+  padding-left: 7px;
+  text-align: center;
+
+}
+
+#email{
+
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 3px;
+  padding-left: 7px;
+  text-align: center;
+
+}
+#password{
+
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 3px;
+  padding-left: 7px;
+  text-align: center;
+
+}
+
+#country{
+
+  width: 310px;
+  height: 33px;
+  border: none;
+  border-radius: 3px;
+  text-align: center;
+  padding-left: 7px;
+
+}
+#address{
+
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 3px;
+  padding-left: 7px;
+  text-align: center;
+
+}

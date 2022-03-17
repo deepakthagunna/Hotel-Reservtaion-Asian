@@ -1,0 +1,19 @@
+h1{
+
+  margin: 0;
+
+  padding: 500px;
+  font-size: 100px;
+  color: purple;
+}
+marquee{
+  background-color:mistyrose;
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+}
+body{
+
+  margin: auto;
+}
+
